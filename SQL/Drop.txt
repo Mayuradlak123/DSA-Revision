@@ -1,0 +1,1 @@
+ALTER TABLE exams_quizzes_score DROP COLUMN ip_address;
